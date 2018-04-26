@@ -17,7 +17,7 @@
     "uniqCompNum": 13,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/icon-128x133.png",
     "noImageResize": "",
     "siteUrl": "undefined"
   },
