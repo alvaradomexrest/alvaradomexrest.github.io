@@ -287,7 +287,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/nachos-2000x1600-800x640.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/sope-2000x1600.jpg",
@@ -295,6 +295,132 @@
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/fish-salad-2000x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fish-salad-2000x1600-800x640.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2-beef-tacos-2000x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-beef-tacos-2000x1600-800x640.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/fresas-con-crema-2000x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fresas-con-crema-2000x1600-800x640.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/supapilla-2000x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/supapilla-2000x1600-800x640.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/torta-plate-2000x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/torta-plate-2000x1600-800x640.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/shrimp-cocktail-2000x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/shrimp-cocktail-2000x1600-800x640.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mixed-shrimp-2000x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mixed-shrimp-2000x1600-800x640.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/menudo-2000x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/menudo-2000x1600-800x640.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2-enchiladas-2000x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-enchiladas-2000x1600-800x640.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/chicharron-2000x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/chicharron-2000x1600-800x640.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/burrito-y-enchilada-2000x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/burrito-y-enchilada-2000x1600-800x640.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/salad-2000x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/salad-2000x1600-800x640.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mix-fajitas-2000x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mix-fajitas-2000x1600-800x640.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/barbacoa-2000x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/barbacoa-2000x1600-800x640.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2-beef-burritos-2000x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-beef-burritos-2000x1600-800x640.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/grill-chicken-2000x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/grill-chicken-2000x1600-800x640.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/chimichanga-plate-2000x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/chimichanga-plate-2000x1600-800x640.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/taco-y-enchilada-2000x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/taco-y-enchilada-2000x1600-800x640.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
               }
             ]
           },
