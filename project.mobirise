@@ -416,11 +416,25 @@
                 "active": false
               },
               {
+                "image": "@PROJECT_PATH@/assets/images/part1-2000x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/part1-2000x1600-800x640.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/part-2-2000x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/part-2-2000x1600-800x640.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/taco-y-enchilada-2000x1600.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/taco-y-enchilada-2000x1600-800x640.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
