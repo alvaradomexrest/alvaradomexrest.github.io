@@ -19,7 +19,8 @@
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/icon-128x133.png",
     "noImageResize": "",
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-118691989-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-118691989-1');\r\n</script>\r\n"
   },
   "pages": {
     "index.html": {
@@ -575,7 +576,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/alvarado-1-2000x961.jpg",
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": 0.6
+            "overlayOpacity": "0.8"
           },
           "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",
           "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/google-comments.jpg\"></div>",
