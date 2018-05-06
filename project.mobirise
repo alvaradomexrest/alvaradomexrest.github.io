@@ -20,7 +20,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/icon-128x133.png",
     "noImageResize": "",
     "siteUrl": "undefined",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-118691989-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-118691989-1');\r\n</script>\r\n"
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
